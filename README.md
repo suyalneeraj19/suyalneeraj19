@@ -42,10 +42,10 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+### ✍️ LeetCode Status
 ![Leetcode Stats](https://leetcard.jacoblin.cool/suyalneeraj09)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suyalneeraj19&label=800&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!---
