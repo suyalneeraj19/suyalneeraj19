@@ -45,6 +45,10 @@
 ### ✍️ LeetCode Status
 ![Leetcode Stats](https://leetcard.jacoblin.cool/suyalneeraj09)
 
+### Github Status
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/suyalneeraj19/output/snake.svg" alt="Snake animation" />
 ---
 
 
