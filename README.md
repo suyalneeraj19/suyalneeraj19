@@ -48,7 +48,7 @@
 ### Github Status
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ssuyalneeraj19/suyalneeraj19/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ssuyalneeraj19/suyalneeraj19/snake.yml" alt="Snake animation" />
 ---
 
 
