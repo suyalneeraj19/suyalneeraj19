@@ -48,7 +48,7 @@
 ### Github Status
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/suyalneeraj19/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/suyalneeraj19/output/snake.svg" alt="Snake animation" />
 ---
 
 
