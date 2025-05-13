@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://suyalneeraj19.github.io/Portfolio/](https://suyalneeraj19.github.io/Portfolio/)
 
-- 📫 How to reach me **suyalneeraj19@gmail.com**
-
 - ⚡ Fun fact **Not a geeky dev**
 
 <h3 align="left">Connect with me:</h3>
